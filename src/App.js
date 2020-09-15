@@ -10,6 +10,7 @@ function App() {
         {/* header */}
       <div className="app__body">
         <Sidebar />
+        <Feed />
       </div>
              
      </div>
