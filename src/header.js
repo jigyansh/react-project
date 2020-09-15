@@ -22,7 +22,7 @@ function Header() {
             alt="something" ></img>
             <div className="header__input">
                 <SearchIcon />
-                <input placeholder="Search Facebook" type="text"/>
+                <input placeholder="Search Facebook" type="text" class="header-input"/>
             </div>
          </div>
          <div className="header__middle" >

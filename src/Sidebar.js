@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Sidebar.css";
 import SidebarRow from './SidebarRow.js';
-import AccountBoxIcon from '@material-ui/icons/AccountBox';
+// import AccountBoxIcon from '@material-ui/icons/AccountBox';
 // import AccessAlarmsIcon from '@material-ui/icons/AccessAlarms';
 // import AccountBalanceWalletIcon from '@material-ui/icons/AccountBalanceWallet';
 import LocalHospitalIcon from '@material-ui/icons/LocalHospital';

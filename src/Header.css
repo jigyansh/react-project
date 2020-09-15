@@ -76,3 +76,6 @@
 .header__active{
     border-bottom: 4px solid blue;
 }
+.header-input{
+    outline-width: 0;
+}
