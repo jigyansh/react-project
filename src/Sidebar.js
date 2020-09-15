@@ -6,14 +6,14 @@ import AccessAlarmsIcon from '@material-ui/icons/AccessAlarms';
 import AccountBalanceWalletIcon from '@material-ui/icons/AccountBalanceWallet';
 
 
-// function Sidebar() {
-//     return (
-//         <div className="sidebar">
-//             <SidebarRow title="profile" Icon="AccountBoxIcon" src="./myimage.jpg"/>
-//             <SidebarRow title="something" Icon="AccessAlarmsIcon"/>
-//             <SidebarRow title="avatar" Icon="AccountBalanceWalletIcon"/>
-//         </div>
-//     )
-// }
+function Sidebar() {
+    return (
+        <div className="sidebar">
+            <SidebarRow title="profile" Icon="AccountBoxIcon" src="./myimage.jpg"/>
+            <SidebarRow title="something" Icon="AccessAlarmsIcon"/>
+            <SidebarRow title="avatar" Icon="AccountBalanceWalletIcon"/>
+        </div>
+    )
+}
 
 export default Sidebar
