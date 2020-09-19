@@ -1,4 +1,5 @@
-.app__body{
-    display: flex;
-    background-color: #eff2f5;
+.app__body {
+  display: flex;
+  background-color: #eff2f5;
+  width: 100%;
 }

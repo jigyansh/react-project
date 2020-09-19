@@ -6,8 +6,8 @@
   box-shadow: 0px 5px 7px -7px rgba(0, 0, 0, 0.75);
   /* margin-top: 35px; */
   border-radius: 15px;
-  width: 80%;
-  margin-left: -200px;
+  width: 100%;
+  /* margin-left: -200px; */
   margin-bottom: 37px;
 }
 .messageSender__top {

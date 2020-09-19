@@ -1,0 +1,40 @@
+/* .login {
+  max-height: 100vh;
+} */
+.login > div > img {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  /* object-fit: contain;
+  height: 150px; */
+}
+.login > div > .img2 {
+  height: 60px;
+}
+/* .login > div {
+  display: flex;
+  flex-direction: column;
+} */
+.login > div {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+.img2 {
+  margin-top: -109px;
+}
+.img1 {
+  margin-top: 80px;
+}
+.login > .login_button > .button {
+  background-color: blue;
+  color: white;
+  padding: 10px 100px;
+  margin-top: -625px;
+}
+.login > .login_button > .button:hover {
+  background-color: #eff2f5;
+  color: blue;
+  padding: 10px 100px;
+  margin-top: -625px;
+}
