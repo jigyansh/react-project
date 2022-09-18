@@ -5,7 +5,7 @@ import Header from "./header";
 import Sidebar from "./Sidebar";
 import Login from "./Login.js";
 
-function App() {
+function App() {  
   const user = null;
   return (
     <div className="app">
