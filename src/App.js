@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import "./App.css";
 import Feed from "./Feed";
 import Header from "./header";
@@ -13,7 +13,7 @@ function App() {
         <Login />
       ) : (
         <>
-          <Header />
+          <Header /> 
           <div className="app__body">
             <Sidebar />
             <Feed />
