@@ -1,7 +1,7 @@
  import React from "react";
 import "./App.css";
 import Feed from "./Feed";
-import Header from "./header";
+import Header from "./header";  
 import Sidebar from "./Sidebar";
 import Login from "./Login.js";
  
